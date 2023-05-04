@@ -3,4 +3,4 @@
 - CSS 3
 - JavaScript
 
- Can view : [My Project](https://olissa.github.io/portfolio/example.html)
+ Can view : [My Project](https://olissa.github.io/portfolio/index.html)
