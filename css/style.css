@@ -39,7 +39,6 @@ grid-gap: 15px;
 
 }
 
-
 .foto1{
 
 	background-color:#acc2e6 ;
@@ -53,9 +52,6 @@ grid-gap: 15px;
 	background-image: url(../img/foto1.jpg);
 	background-repeat: no-repeat;
 }
-
-
-
 
 
 .foto2{
@@ -116,7 +112,7 @@ grid-gap: 15px;
 }
 
 .nav {
-margin-top: 30px;
+        margin-top: 30px;
 	
 	height: 15px;
 	
