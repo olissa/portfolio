@@ -276,7 +276,7 @@ nav{
 .wrapper{height:2100px ;
 display: grid;
 grid-template-columns: 100%;
-grid-template-rows: 17% 35% 17%;
+grid-template-rows: 17% 30% 17%;
 
 grid-gap: 10px;
 
