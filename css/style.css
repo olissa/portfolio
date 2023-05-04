@@ -254,9 +254,11 @@ margin-bottom: 7px;
 
 #acti{background-color:darkgreen;
 box-shadow: 0 0 5px black;}
+	
 #act{
 	color: red;
 }
+	
 a{height: 30px;}
 nav{
 
@@ -280,11 +282,11 @@ grid-gap: 1px;
 }
 
 .text1{height: 850px;
-	font-size: 10px;
+	font-size: 20px;
 
 }
 .text2{height: 480px;
-	font-size: 10px;
+	font-size: 20px;
 
 }
 }
