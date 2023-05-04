@@ -270,7 +270,8 @@ nav{
 	justify-content: center;
 }
 .content1{
-	height: 950px;
+	margin-top:25px;
+	height: 1050px;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
@@ -304,7 +305,7 @@ margin-left: 15px;
 }
 .wrapper
 {
-	height: 900px;
+	height: 860px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
