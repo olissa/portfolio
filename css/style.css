@@ -115,7 +115,7 @@ body{background-color: #4287f5;}
 }
 
 .nav {
-margin-top: 50px;
+margin-top: 30px;
 	
 	height: 15px;
 	
@@ -182,19 +182,6 @@ margin-top: 50px;
 
 }
 
-.meny li {
-
-	padding: 0 40px;
-	font-size: 30px;
-	list-style: none;
-	display: inline-block;
-	border-radius: 10px;
-	height: 35px;
-
-	
-
-	
-}
 
 .meny a {
 
@@ -233,6 +220,98 @@ margin-top: 50px;
 
 #acti{background-color: white;}
 
+
+
+
+@media (max-width: 768px){
+    body{
+    	font-family: Arial;
+    }
+	h1{
+		font-size: 25px;
+		margin: 20px;
+		color: red;
+		text-shadow: 3px 3px 7px black;
+	}
+
+	.meny li {
+margin-bottom: 7px;
+	padding: 3px 30px ;
+	font-size: 15px;
+	font-weight: 700;
+	list-style: none;
+	display: block;
+	border-radius: 5px;
+	height: 25px;
+	background-color: green;
+	box-shadow: 0 0 5px black;
+	border: solid 1px darkgreen;
+
+
+	
+}
+
+#acti{background-color:darkgreen;
+box-shadow: 0 0 5px black;}
+#act{
+	color: red;
+}
+a{height: 30px;}
+nav{
+
+	
+	height: 80px;
+	
+	background-color: #32a852;
+
+}
+.nav{
+	display: flex;
+	justify-content: center;
+}
+.content1{
+	height: 950px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	width: 100%;
+	gap: 20px;
+}
+.text1{
+	margin-left: 15px;
+	height: 750px;
+	width: 90%;
+}
+
+.text2{
+	margin-left: 15px;
+	height: 400px;
+	width: 90%;
+}
+
+.foto1{
+	
+	width: 90%;
+	margin-left: 15px;
+
+}
+
+.foto2{
+	
+	width: 90%;
+	margin: 0;
+margin-left: 15px;
+}
+.wrapper
+{
+	height: 900px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	
+	width: 100%;
+	gap: 20px;
+}
 
 
 
