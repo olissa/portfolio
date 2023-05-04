@@ -273,16 +273,16 @@ nav{
 	display: flex;
 	justify-content: center;
 }
-.wrapper{height:2100px ;
+.wrapper{height:1800px ;
 display: grid;
 grid-template-columns: 100%;
-grid-template-rows: 17% 30% 17%;
+grid-template-rows: 17% 28% 17% 17%;
 
 grid-gap: 10px;
 
 }
 
-.text1{height: 550px;
+.text1{height: 590px;
 	font-size: 20px;
 
 }
