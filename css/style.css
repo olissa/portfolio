@@ -1,0 +1,238 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1{
+
+	font-size: 40px;
+	color: #bb1301;
+	text-align: center;
+
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+body{background-color: #4287f5;}
+
+.content1{
+
+	height: 400px;
+
+	margin-top: 50px;
+	
+}
+
+.text1{
+
+	background-color: #acc2e6;
+	font-size: 25px;
+	height: 340px;
+	border-radius: 25px;
+	box-shadow: 7px 7px 7px white;
+	float: left;
+	width: 60%;
+	padding: 12px;
+	margin-left: 30px;
+
+}
+
+
+.foto1{
+
+	background-color:#acc2e6 ;
+
+	border-radius: 25px;
+	box-shadow: 7px 7px 7px white;
+	height: 340px;
+	width: 33%;
+	float: right;
+	margin-right: 30px;
+	background-image: url(../img/foto1.jpg);
+	background-repeat: no-repeat;
+}
+
+
+
+.wrapper{height:370px ;}
+
+.foto2{
+
+	background-color: #acc2e6;
+	font-size: 25px;
+	height: 340px;
+	border-radius: 25px;
+	box-shadow: 7px 7px 7px white;
+	float: left;
+	width: 60%;
+	padding: 12px;
+	margin-left: 30px;
+	background-image: url(../img/foto2.jpg);
+	background-repeat: no-repeat;
+}
+
+.text2{
+
+	background-color:#acc2e6 ;
+
+	border-radius: 25px;
+	box-shadow: 7px 7px 7px white;
+	height: 340px;
+	width: 33%;
+	float: right;
+	margin-right: 30px;
+	font-size: 25px;
+	padding: 12px;
+	
+}
+
+
+.footer{
+
+	height: 150px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #32a852;
+
+}
+
+.beby_footer{
+	color: white;
+}
+
+
+
+.meny{
+
+
+	float: left;
+
+	margin-top: -250;
+
+	
+}
+
+.nav {
+margin-top: 50px;
+	
+	height: 15px;
+	
+	background-color: #32a852;
+}
+
+.meny li {
+
+	padding: 0 40px;
+	font-size: 30px;
+	list-style: none;
+	display: inline-block;
+	border-radius: 10px;
+	height: 35px;
+
+	
+}
+
+.meny a {
+
+	height: 35px;
+	text-decoration: none;
+	color: white;
+}
+
+.meny a:hover{
+
+	color: red;
+}
+
+.meny li:hover{
+	background-color: white;
+
+
+
+}
+
+
+.meny a:active{
+
+	color: blue;
+}
+
+.meny li:active{
+	background-color: orange;
+
+	}
+
+
+.meny{
+
+	margin: 10px 20px;
+	float: left;
+
+	
+}
+
+.nav{
+
+	
+	height: 60px;
+	
+	background-color: #32a852;
+
+}
+
+.meny li {
+
+	padding: 0 40px;
+	font-size: 30px;
+	list-style: none;
+	display: inline-block;
+	border-radius: 10px;
+	height: 35px;
+
+	
+
+	
+}
+
+.meny a {
+
+	height: 35px;
+	text-decoration: none;
+	color: white;
+}
+
+.meny a:hover{
+
+	color: red;
+}
+
+.meny li:hover{
+	background-color: white;
+
+
+
+}
+
+
+.meny a:active{
+
+	color: blue;
+}
+
+.meny li:active{
+	background-color: orange;
+
+	}
+
+
+#act {color: red;}
+
+
+
+#acti{background-color: white;}
+
+
+
+
