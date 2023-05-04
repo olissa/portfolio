@@ -272,7 +272,7 @@ nav{
 .wrapper{height:1800px ;
 display: grid;
 grid-template-columns: 100%;
-grid-template-rows: 19% 35% 17% 19%;
+grid-template-rows: 20% 35% 17% 19%;
 
 grid-gap: 10px;
 
