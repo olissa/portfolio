@@ -275,17 +275,17 @@ nav{
 .wrapper{height:2100px ;
 display: grid;
 grid-template-columns: 100%;
-grid-template-rows: 17% 49% 21%;
+grid-template-rows: 17% 37% 21%;
 
-grid-gap: 1px;
+grid-gap: 10px;
 
 }
 
-.text1{height: 850px;
+.text1{height: 600px;
 	font-size: 20px;
 
 }
-.text2{height: 480px;
+.text2{height: 370px;
 	font-size: 20px;
 
 }
