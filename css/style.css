@@ -278,10 +278,12 @@ grid-gap: 1px;
 
 }
 
-.text1{height: 1000px;
+.text1{height: 850px;
+	font-size:18px;
 
 }
-.text2{height: 500px;
+.text2{height: 480px;
+	font-size:18px;
 
 }
 }
