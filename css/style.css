@@ -226,6 +226,7 @@ margin-top: 30px;
 @media (max-width: 768px){
     body{
     	font-family: Arial;
+	    
     }
 	h1{
 		font-size: 25px;
@@ -279,11 +280,11 @@ grid-gap: 1px;
 }
 
 .text1{height: 850px;
-	font-size:15px;
+	font-size: 10px;
 
 }
 .text2{height: 480px;
-	font-size:15px;
+	font-size: 10px;
 
 }
 }
