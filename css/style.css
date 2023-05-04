@@ -269,15 +269,16 @@ nav{
 	display: flex;
 	justify-content: center;
 }
-.wrapper{height:2000px ;
+.wrapper{height:2100px ;
 display: grid;
 grid-template-columns: 100%;
-grid-template-rows: 20% 38% 20%;
+grid-template-rows: 20% 40% 22%;
 
 grid-gap: 5px;
 
 }
 
-.text1{height: 720px;
+.text1{height: 735px;
 
+}
 }
